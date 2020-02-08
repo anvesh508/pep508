@@ -1,0 +1,6 @@
+version control software.
+It is 1st generation. It is also called LOCAL VCS.
+centralized control software.
+It is 2nd generation. It is also called CEN VCS.
+decentralized control software.
+It is 3rd generation. It is also called DECEN VCS.
